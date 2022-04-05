@@ -1,0 +1,8 @@
+# Project exclude paths
+**/out/
+**/build/
+**/shelf/
+**/.idea/
+
+**/*.class
+**/*.iml
